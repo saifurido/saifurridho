@@ -1,58 +1,33 @@
-
-<h1 align="center">Hi, I'm Ahmad Saifur Ridho 👋</h1>
-
-<p align="center">
-  Information Technology Student | Backend Developer
-</p>
+<h1 align="center">Hi, I'm Ahmad Saifur Ridho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Learning+Backend+Development;Building+Web+Applications;Exploring+Laravel+%26+PHP" />
+  Information Technology Student at Universitas Brawijaya
 </p>
 
 ---
 
 ### About Me
 
-- 🎓 Information Technology Student at Universitas Brawijaya
-- 💻 Interested in Backend Development
-- 🌱 Currently learning Laravel, PHP, and Database Management
-- 🔧 Experienced in building web applications
-- 🎯 Working towards becoming a Backend Developer
+I'm an Information Technology student interested in backend development and web application development.
+
+- Currently studying at Universitas Brawijaya
+- Interested in PHP, Laravel, and MySQL
+- Learning to build and develop web applications
+- Currently improving my programming skills through projects
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode" />
-</p>
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Framework:** Laravel, Bootstrap
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
 
-### Featured Projects
+### Projects
 
-- **Catering Hub** – Web-based catering ordering and management system.
-- **To-Do List** – Task management application built with web technologies.
-- **Portfolio Website** – Personal portfolio showcasing my projects and skills.
+- **Catering Hub** – Web-based catering ordering system built with Laravel.
+- **To-Do List** – A simple task management application.
+- **Portfolio Website** – Personal website to showcase my work.
 
-### GitHub Statistics
+### Connect
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifurido&show_icons=true&hide_border=true&theme=default&title_color=24292f&icon_color=57606a&text_color=57606a" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifurido&layout=compact&hide_border=true&theme=default&title_color=24292f&text_color=57606a&langs_count=5" />
-</p>
-
-
-### Connect With Me
-
-<p>
-  <a href="https://github.com/saifurridho">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learning, building, and improving one project at a time.</i>
-</p>
+- GitHub: [@saifurido](https://github.com/saifurido)
