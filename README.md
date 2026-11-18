@@ -33,13 +33,15 @@
 
 ### GitHub Statistics
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifurridho&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saifurido&show_icons=true&hide_border=true&theme=default&title_color=24292f&icon_color=57606a&text_color=57606a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifurridho&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifurido&layout=compact&hide_border=true&theme=default&title_color=24292f&text_color=57606a&langs_count=5" />
 </p>
+
 
 ### Connect With Me
 
